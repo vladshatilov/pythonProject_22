@@ -1,0 +1,1 @@
+Класс CubeVolumeCalculator не должен обращаться напрямую к атрибутам Cube

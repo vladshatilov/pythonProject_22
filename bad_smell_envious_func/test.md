@@ -1,0 +1,1 @@
+CubeVolumeCalculator должен получать значение объема от объекта cube
